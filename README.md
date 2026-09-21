@@ -16,5 +16,5 @@ Estudiante de la Tecnicatura en Programación (UTN Avellaneda) y desarrollador f
 - **Herramientas:** Git / GitHub · Maven · Docker · Postman · XAMPP · Linux (Bash / terminal)
 
 ### Proyectos destacados
-- **[Proyecto 1](link)**: una línea de qué hace.
-- **[Proyecto 2](link)**: una línea de qué hace.
+- **[nonograma-pygame](link)**: juego de nonogramas en Python con Pygame (trabajo académico de la UTN) link pendiente
+- **[fotos-patinaje](link)**: e-commerce de fotos con galería y carrito, en Spring Boot link pendiente
