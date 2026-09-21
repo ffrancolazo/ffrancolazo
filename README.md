@@ -1,6 +1,6 @@
 ## Hola, soy Franco 👋
 
-Estudiante de la Tecnicatura en Programación (UTN Avellaneda) y desarrollador freelance, con foco en full-stack. También reparo PCs, así que me llevo bien con el hardware y el soporte técnico. 
+Estudiante de la Tecnicatura en Programación (UTN Avellaneda) y desarrollador freelance, con base en Java y Spring Boot y en camino a full-stack. También reparo PCs, así que me llevo bien con el hardware y el soporte técnico. Busco mi primera experiencia como desarrollador junior, backend o full-stack.
 
 - 🔭 Trabajando en: [Sistema de Gestion Saint Florence], un sistema de gestión y venta de fotografia profesional en patinaje artistico.
 - 🌱 Aprendiendo: [HTML, CSS, JavaScript, Express, Node, MongoDB, Spring Boot en Java, Metodologia de los sistemas de software, Ingles]
