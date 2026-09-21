@@ -8,11 +8,12 @@ Estudiante de la Tecnicatura en Programación (UTN Avellaneda) y desarrollador f
 - 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/franco-lazo/) · lazofrancom@gmail.com
 
 ### Stack
-**Lenguajes:** Java · Python · JavaScript (aprendiendo)
-**Backend:** Spring Boot · JPA/Hibernate
-**Bases de datos:** MySQL · MongoDB (aprendiendo)
-**Frontend:** Thymeleaf · HTML/CSS
-**Herramientas:** Git / GitHub · Maven · Docker · Postman · XAMPP · Linux (Bash / terminal)
+
+- **Lenguajes:** Java · Python · JavaScript (aprendiendo)
+- **Backend:** Spring Boot · JPA/Hibernate
+- **Bases de datos:** MySQL · MongoDB (aprendiendo)
+- **Frontend:** Thymeleaf · HTML/CSS
+- **Herramientas:** Git / GitHub · Maven · Docker · Postman · XAMPP · Linux (Bash / terminal)
 
 ### Proyectos destacados
 - **[Proyecto 1](link)**: una línea de qué hace.
