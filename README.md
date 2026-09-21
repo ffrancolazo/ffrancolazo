@@ -2,10 +2,10 @@
 
 Estudiante de la Tecnicatura en Programación (UTN Avellaneda) y desarrollador freelance, con base en Java y Spring Boot y en camino a full-stack. También reparo PCs, así que me llevo bien con el hardware y el soporte técnico. Busco mi primera experiencia como desarrollador junior, backend o full-stack.
 
-- 🔭 Trabajando en: [Sistema de Gestion Saint Florence], un sistema de gestión y venta de fotografia profesional en patinaje artistico.
-- 🌱 Aprendiendo: [HTML, CSS, JavaScript, Express, Node, MongoDB, Spring Boot en Java, Metodologia de los sistemas de software, Ingles]
-- ⚡ Dato curioso: [Me interesa el desarrollo de software mas en bajo nivel y entender el porque de los programas y sus funciones. Me gusta leer y estudiar de manera autodidacta sobre mis intereses (Lenguaje ensamblador, Arquitectura de las computadoras)]
-- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/franco-lazo/) · lazofrancom@gmail.com
+- 🔭 Trabajando en: Sistema de Gestion Saint Florence, un sistema de gestión y venta de fotografia profesional en patinaje artistico.
+- 🌱 Aprendiendo: HTML, CSS, JavaScript, Express, Node, MongoDB, Spring Boot en Java, Metodologia de los sistemas de software, Ingles
+- ⚡ Dato curioso: Me interesa el desarrollo de software mas en bajo nivel y entender el porque de los programas y sus funciones. Me gusta leer y estudiar de manera autodidacta sobre mis intereses (Lenguaje ensamblador, Arquitectura de las computadoras)
+- 📫 Contacto: LinkedIn(https://www.linkedin.com/in/franco-lazo/) · lazofrancom@gmail.com
 
 ### Stack
 
