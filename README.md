@@ -1,6 +1,6 @@
 ## Hola, soy Franco 👋
 
-Developer full-stack. Apasionado por la tecnologia desde chico, buscando hacia donde transportar el valor en el mundo actual.
+Programador Full-Stack. Buscando hacia donde transportar el valor en el mundo actual.
 
 - 🔭 Trabajando en: Sistema de Gestion Saint Florence, un sistema de gestión de pedidos. Objetivo: Gestionar, en tiempo real, la venta de fotografías en eventos presenciales de patinaje artístico. Local.
 - 🌱 Aprendiendo actualmente: HTML, CSS, JavaScript, Express, Node. Orientado a un perfil full-stack, web.
