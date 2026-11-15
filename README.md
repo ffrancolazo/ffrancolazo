@@ -9,5 +9,6 @@ Actualmente, estudio la Tecnicatura Universitaria en Programación en la UTN y e
 Aspiro a mejorar mis conocimientos y mi perfil profesional.
 
 </details>
-# Cómo programo
+
+## Cómo programo
 
